@@ -44,14 +44,13 @@ QA Engineer - Doina Agachii
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
-
+* __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
-
+* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
+* Product risks: validation constraints on the fields might be too restrictive to the end-user
+* 
 #### 1.1.6 Evaluating entry criteria
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
