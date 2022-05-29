@@ -66,9 +66,14 @@ The testing process will be executed based on the above requirements for the Qua
  * Enter data only for mandatory fields and check that the license is created/updated
  * Enter data for all available fields and check that the license is created/updated
  * Leave mandatory fields empty and check that the license cannot be created/updated
+ * Verify if a License/multiple Licenses fields can be deleted
+ * Verify if a License can be edited
+ * Verify that Save/Cancel/Add/Delete buttons works
  * View license details and check they are correct
  * View all licenses in a list
  * Check all validation constraints for the fields
+ 
+
 
 ## 1.4 Test Design
 
