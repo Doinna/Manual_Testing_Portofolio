@@ -59,10 +59,16 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 It will be done by generating periodic reports that reflect the current status of the test.
 
+
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements for the Qualifications module - Add License. The following test conditions were found:
+ * Enter data only for mandatory fields and check that the license is created/updated
+ * Enter data for all available fields and check that the license is created/updated
+ * Leave mandatory fields empty and check that the license cannot be created/updated
+ * View license details and check they are correct
+ * View all licenses in a list
+ * Check all validation constraints for the fields
 
 ## 1.4 Test Design
 
