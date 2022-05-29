@@ -50,7 +50,7 @@ QA Engineer - Doina Agachii
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
 * Product risks: validation constraints on the fields might be too restrictive to the end-user
-* 
+
 #### 1.1.6 Evaluating entry criteria
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
