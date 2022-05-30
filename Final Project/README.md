@@ -108,10 +108,11 @@ The following elements are needed to be ready before the test execution phase be
 Test cases are executed on the created test Cycle summary: [ Add_license_cycle_summary_execution.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800604/Add_license_cycle_summary_execution.pdf)
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Add_license_bugs.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800646/Add_license_bugs.pdf)
-Can't introduce another type of License that is not in the License type list
-The date from the ‘Issued date’ field must be different from ‘Expiry date’ field.
-The date from the ‘Issued date’ field must not be in future.
-License type can not be edited
+
+Can't introduce another type of License that is not in the License type list;
+The date from the ‘Issued date’ field must be different from ‘Expiry date’ field;
+The date from the ‘Issued date’ field must not be in future;
+License type can not be edited.
 
 Full regression testing is needed after the bugs are fixed
 
