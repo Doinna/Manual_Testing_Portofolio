@@ -20,7 +20,7 @@ The below Story was created in JIRA and describes the functional specifications 
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing for the Qualifications module - Add License from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
@@ -42,11 +42,11 @@ QA Engineer - Doina Agachii
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
 * no detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the My Info module, which includes the Dependents section
+* exploratory regression testing must be performed on the My Info module, which includes the Qualifications section
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests in scope:__ All the feature of Qualifications module - Add License which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
 * __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 #### 1.1.5 Risks detected
 
@@ -60,6 +60,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
+<img width="791" alt="Screenshot 2022-05-30 at 22 15 27" src="https://user-images.githubusercontent.com/103954654/171049579-4d5dd868-5984-436b-8b90-92622bfb1ee0.png">
 
 
 ## 1.3 Test Analysis
