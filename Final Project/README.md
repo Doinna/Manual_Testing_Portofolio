@@ -83,12 +83,14 @@ The testing process will be executed based on the above requirements for the Qua
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
+
 <img width="802" alt="Test_cases" src="https://user-images.githubusercontent.com/103954654/171052206-49fc1b13-da1d-42d8-847c-80b87944df73.png">
 
 
 
 
-The test cases with steps can be viewed here: [License_test_cases.pdf]()
+The test cases with steps can be viewed here: [License_test_cases.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800556/License_test_cases.pdf)
+
 
 ## 1.5 Test Implementation
 
