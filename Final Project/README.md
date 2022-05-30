@@ -11,7 +11,7 @@ API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the Qualifications module - Add License, for which the final project is performed upon.
 
 <img width="1015" alt="Screenshot 2022-05-30 at 21 57 48" src="https://user-images.githubusercontent.com/103954654/171048183-3e7bfc0a-82c3-4c19-8a66-492fcc299fce.png">
 
