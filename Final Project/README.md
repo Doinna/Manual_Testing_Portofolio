@@ -80,11 +80,11 @@ The testing process will be executed based on the above requirements for the Qua
 
 ## 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
--> enter here test cases or at least the titles
+<img width="741" alt="Test_cases" src="https://user-images.githubusercontent.com/103954654/171051997-ef07cbbb-f8ec-498e-b793-456b27d44318.png">
+
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
