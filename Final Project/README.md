@@ -4,7 +4,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test:  https://opensource-demo.orangehrmlive.com/
 
-API Documentation: https://orangehrm.github.io/orangehrm-api-doc/ 
+
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
@@ -13,7 +13,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 The below Story was created in JIRA and describes the functional specifications of the Qualifications module - Add License, for which the final project is performed upon.
 
-<img width="1015" alt="Screenshot 2022-05-30 at 21 57 48" src="https://user-images.githubusercontent.com/103954654/171048183-3e7bfc0a-82c3-4c19-8a66-492fcc299fce.png">
+<img width="691" alt="Screenshot 2022-05-30 at 23 21 53" src="https://user-images.githubusercontent.com/103954654/171055640-56cca267-bdcc-466c-8a3e-763f481f040d.png">
+
 
 
 # 1 Testing section
@@ -104,9 +105,16 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+Test cases are executed on the created test Cycle summary: [ Add_license_cycle_summary_execution.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800604/Add_license_cycle_summary_execution.pdf)
+
+Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
+Date format is not dd/mm/yyyy
+Future "Date of Birth" can be selected from calendar
+Only 50 characters are allowed for "Please Specify" field
+Only 50 characters are allowed for "Name" field
+Relationship "parent" is missing
+API tests are executed based on the checklist. The collection used can be found here: JSON file with the collection of requests created for the Dependents API
+Full regression testing is needed after the bugs are fixed
 
 
 ## 1.7 Test Completion
