@@ -6,7 +6,7 @@ Application under test:  https://opensource-demo.orangehrmlive.com/
 
 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/Doinna/Manual_Testing_Portofolio/tree/main/Final%20Project#1-testing-section) and [SQL section](https://github.com/Doinna/Manual_Testing_Portofolio/tree/main/Final%20Project#2-sql-section).**
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
