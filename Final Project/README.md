@@ -26,10 +26,10 @@ The Test Plan is designed to describe all details of testing for the Qualificati
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-Project manager - Ana Popescu
-Product owner - Ioan Cristescu
-Software developer - Diana Florescu
-QA Engineer - Doina Agachii
+* Project manager - Ana Popescu
+* Product owner - Ioan Cristescu
+* Software developer - Diana Florescu
+* QA Engineer - Doina Agachii
 
 
 #### 1.1.2 Entry criteria defined
@@ -110,10 +110,10 @@ Test cases are executed on the created test Cycle summary: [ Add_license_cycle_s
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Add_license_bugs.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800646/Add_license_bugs.pdf)
 
-Can't introduce another type of License that is not in the License type list;
-The date from the ‘Issued date’ field must be different from ‘Expiry date’ field;
-The date from the ‘Issued date’ field must not be in future;
-License type can not be edited.
+* Can't introduce another type of License that is not in the License type list;
+* The date from the ‘Issued date’ field must be different from ‘Expiry date’ field;
+* The date from the ‘Issued date’ field must not be in future;
+* License type can not be edited.
 
 Full regression testing is needed after the bugs are fixed
 
@@ -127,5 +127,5 @@ Full regression testing is needed after the bugs are fixed
 -> enter here test execution report/chart
 
 # 2 SQL section
-
-
+Created a database named 'orangehrm' and a table named 'license' with all the columns needed to save data per specifications. Performed different queries inside the sql file:[
+](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License.sql)
