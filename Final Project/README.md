@@ -127,5 +127,4 @@ Full regression testing is needed after the bugs are fixed
 -> enter here test execution report/chart
 
 # 2 SQL section
-Created a database named 'orangehrm' and a table named 'license' with all the columns needed to save data per specifications. Performed different queries inside the sql file:[
-](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License.sql)
+Created a database named 'orangehrm' and a table named 'license' with all the columns needed to save data per specifications. Performed different queries inside the sql file: (license.sql)[https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License.sql]
