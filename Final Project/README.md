@@ -91,7 +91,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-The test cases with steps can be viewed here: [License_test_cases.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800556/License_test_cases.pdf)
+The test cases with steps can be viewed here: [License_test_cases.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License_test_cases.pdf)
 
 
 ## 1.5 Test Implementation
@@ -106,9 +106,9 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-Test cases are executed on the created test Cycle summary: [ Add_license_cycle_summary_execution.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800604/Add_license_cycle_summary_execution.pdf)
+Test cases are executed on the created test Cycle summary: [ Add_license_cycle_summary_execution.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/%20Add_license_cycle_summary_execution.pdf)
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [Add_license_bugs.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/files/8800646/Add_license_bugs.pdf)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Add_license_bugs.pdf](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/Add_license_bugs.pdf)
 
 * Can't introduce another type of License that is not in the License type list;
 * The date from the ‘Issued date’ field must be different from ‘Expiry date’ field;
@@ -127,4 +127,4 @@ Full regression testing is needed after the bugs are fixed
 -> enter here test execution report/chart
 
 # 2 SQL section
-Created a database named 'orangehrm' and a table named 'license' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [link](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License.sql)
+Created a database named 'orangehrm' and a table named 'license' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [License.sql](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License.sql)
