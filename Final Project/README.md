@@ -120,11 +120,15 @@ Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion
 
-* Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+* The traceability matrix was generated and can be found here: Traceability_matrix.csv
+* Test execution chart was generated, the final report shows that a number 4 tests have failed of a total of 20
+* A number of 20 test cases were planned for execution and all of them were executed
+* A number of 4 total bugs were found, from which the priority is: 1 is high and 3 are medium
 
--> enter here test execution report/chart
+<img width="1577" alt="Screenshot 2022-06-04 at 14 04 33" src="https://user-images.githubusercontent.com/103954654/171996486-afe9104d-a9a9-436c-b537-05b9d515f3d6.png">
+
+
 
 # 2 SQL section
 Created a database named 'orangehrm' and a table named 'license' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [License.sql](https://github.com/Doinna/Manual_Testing_Portofolio/blob/main/License.sql)
