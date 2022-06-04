@@ -8,7 +8,7 @@ Application under test:  https://opensource-demo.orangehrmlive.com/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/Doinna/Manual_Testing_Portofolio/tree/main/Final%20Project#1-testing-section) and [SQL section](https://github.com/Doinna/Manual_Testing_Portofolio/tree/main/Final%20Project#2-sql-section).**
 
-Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+Tools used: JIRA, Zephyr Squad, MySQL Workbench.
 # Functional specifications
 
 The below Story was created in JIRA and describes the functional specifications of the Qualifications module - Add License, for which the final project is performed upon.
@@ -47,7 +47,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All the feature of Qualifications module - Add License which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
+* __Tests in scope:__ All the feature of Qualifications module - Add License which were defined in software requirement specs need to be tested: functional testing and GUI testing 
 * __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
 #### 1.1.5 Risks detected
 
