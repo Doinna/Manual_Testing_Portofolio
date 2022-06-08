@@ -48,7 +48,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.4 Test scope
 
 * __Tests in scope:__ All the feature of Qualifications module - Add License which were defined in software requirement specs need to be tested: functional testing and GUI testing 
-* __Tests not in scope:__ performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
+* __Tests not in scope:__ performance testing, integrations of the qualifications module with other modules, compatibility testing with multiple browsers
 #### 1.1.5 Risks detected
 
 * Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
